@@ -3,19 +3,37 @@
   background-color: white;
 }
 
+.navbar-brand{
+  /* 2- Logoya soldan boşluk ayarlayınız. */
+  margin-left: 115px;
+}
+
 input.searche {
   height: 36px;
-  max-width: 500px;
+  width: 600px;
+  /* max-width: 500px; */
   background-color: #eef3f8;
   border: 0;
 }
 
 input.searche::placeholder {
   font-size: 14px;
+  /* 3- Arama alanına sağdan boşluk bırakınız ve placeholder'ini düzeltiniz. */
+  padding-left: 20px;
+  vertical-align: top;
   color: gray;
-  background-image: url(/bootstraplinkedinclone/assets/search-solid.svg);
+  background-image: url(/assets/search-solid.svg);
   background-repeat: no-repeat;
-  background-size: 7%;
+  background-position: 0%;
+  background-size: 6%;
+}
+
+nav form{
+  width: 500px;
+}
+
+input.form-control{
+  width: 250px !important;
 }
 
 .body {

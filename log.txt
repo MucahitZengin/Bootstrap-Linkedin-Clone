@@ -1,0 +1,10 @@
+4 Mart Ct---------
+1- Navbar yukarıya sabitlenmemiş durumda ve kenarlığı yok. Bunları düzeltiniz.✔
+2- Logoya soldan boşluk ayarlayınız.✔
+
+5 Mart Pz---------
+3- Arama alanına sağdan boşluk bırakınız ve placeholder'ini düzeltiniz.
+4- Arama alanı ile menü arasındaki boşluğu ayarlayınız.
+
+1 Agustos Sa-----
+5- Menülerdeki yazıları ve ikonları ortalayın.
