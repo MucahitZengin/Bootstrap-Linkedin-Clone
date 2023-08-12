@@ -3,8 +3,41 @@
 2- Logoya soldan boşluk ayarlayınız.✔
 
 5 Mart Pz---------
-3- Arama alanına sağdan boşluk bırakınız ve placeholder'ini düzeltiniz.
-4- Arama alanı ile menü arasındaki boşluğu ayarlayınız.
+3- Arama alanına sağdan boşluk bırakınız ve placeholder'ini düzeltiniz.✔
+4- Arama alanı ile menü arasındaki boşluğu ayarlayınız.✔
 
 1 Agustos Sa-----
-5- Menülerdeki yazıları ve ikonları ortalayın.
+5- Menülerdeki yazıları ve ikonları ortalayın.✔
+6- Ben kategorisini diğer kategori isimleri gibi düzenleyiniz ve profil fotoğrafını düzeltiniz.✔
+7- Navbar'ı yukarı sabitleyince fark etmişsinizdir ki içerik biraz yukarıda kalıyor. O yüzden yukarıdan biraz boşluk bırakın.✔
+
+3 ağu pr-----
+8- İçerik biraz geniş kalmış sanki, toplamak için ne kullanabiliriz? İpucu: Layout✔
+9- Responsive yapı için sol panele 2 birim, orta panele 6 birim, sağ panele de 3 birim veriniz. Bütün boyutlarda aynı ölçü geçerli olsun.✔
+10- Profil fotoğrafını ortalayın, kenarlığını yuvarlak yapın ve 2 birim beyaz kenarlık verin.✔
+11- Yazıları eski haline getiriniz. (ANLAMADIM)
+13- Sayfa bildirimi sayısını sağa alınız.✔
+
+4 agu cm-----
+12- Bu alanda gözünüze çarpan kısımları kendinize göre düzenleyiniz.✔
+14- En Yeni bölümüne sticky pozisyon verin ve overflowunu görünür yapın. Yukarıdan 4rem mesafe verin.✔
+15- Gönderi başlatın placeholderını düzeltiniz.✔
+
+8 agu sa-----
+16- Butonlara Bootstrap'ta bulunan düzenlemeyi yapınız.✔
+
+11 Agu Cm-----
+17- Fotoğraf'a #70B5F9, Video'ya #7FC15E, Etkinlik'e #E7A33E, Yazı Yaz'a #F5987E renklerini uygulayın. İpucu: fill✔
+18- Posttaki kullanıcı adını üste, meslek title'sını ortaya, post paylaşım süresini aşağı sabitleyiniz. İpucu: align✔
+
+12 Agu Ct-----
+19- inline-css şeklinde yazılan CSS'leri düzenli hale getiriniz.
+
+
+20- Beğenme, kalp ve alkışa margin veriniz.
+21- Butonlara bootstrap düzenlemesi yapınız.
+22- Sağ panelde logoların yazıları yanlarında olması lazım. Div yerine ne kullanmak gerekiyor?
+23- Bugünün en çok izlenen eğitimleri bölümünün genişliğini üstteki gibi ayarlayınız.
+24- Sağ panelde en alttaki bölüme sticky pozisyon verin ve overflowunu görünür yapın. Yukarıdan 4rem mesafe verin.
+25- Bu bölümdeki linkler yan yana olmalı.
+26- Mesajlaşmanın genişliği 300px olmalı, arkaplanı beyaz olmalı.

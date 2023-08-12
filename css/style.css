@@ -10,7 +10,7 @@
 
 input.searche {
   height: 36px;
-  width: 600px;
+  width: 250px !important;
   /* max-width: 500px; */
   background-color: #eef3f8;
   border: 0;
@@ -30,10 +30,6 @@ input.searche::placeholder {
 
 nav form{
   width: 500px;
-}
-
-input.form-control{
-  width: 250px !important;
 }
 
 .body {
@@ -78,14 +74,20 @@ i:hover {
 input.content {
   border-radius: 40px;
   height: 45px;
+  padding-left: 15px;
+  
+  
 }
 input.content::placeholder {
   font-weight: bolder;
   font-size: 14px;
+  padding-left: 25px;
   font-family: Arial, Helvetica, sans-serif;
-  background-image: url(/bootstraplinkedinclone/assets/edit-regular.svg);
+  background-image: url(/assets/edit-regular.svg);
   background-repeat: no-repeat;
   background-size: auto;
+  background-position: 0px;
+  
 }
 
 div.card {
