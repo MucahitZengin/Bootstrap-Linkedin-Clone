@@ -37,12 +37,10 @@
 
 13 Agu Pz-----
 22- Sağ panelde logoların yazıları yanlarında olması lazım. Div yerine ne kullanmak gerekiyor?✔ //span 
-
-23- Bugünün en çok izlenen eğitimleri bölümünün genişliğini üstteki gibi ayarlayınız.
-
-24- Sağ panelde en alttaki bölüme sticky pozisyon verin ve overflowunu görünür yapın. Yukarıdan 4rem mesafe verin.
-25- Bu bölümdeki linkler yan yana olmalı.
-26- Mesajlaşmanın genişliği 300px olmalı, arkaplanı beyaz olmalı.
+23- Bugünün en çok izlenen eğitimleri bölümünün genişliğini üstteki gibi ayarlayınız.✔
+24- Sağ panelde en alttaki bölüme sticky pozisyon verin ve overflowunu görünür yapın. Yukarıdan 4rem mesafe verin.✔
+25- Bu bölümdeki linkler yan yana olmalı.✔
+26- Mesajlaşmanın genişliği 300px olmalı, arkaplanı beyaz olmalı.✔
 
 
 

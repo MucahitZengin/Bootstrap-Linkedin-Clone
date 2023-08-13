@@ -5,13 +5,13 @@
 
 .navbar-brand{
   /* 2- Logoya soldan boşluk ayarlayınız. */
-  margin-left: 115px;
+  /* margin-left: 115px; */
 }
 
 input.searche {
   height: 36px;
   width: 250px !important;
-  /* max-width: 500px; */
+  max-width: 500px;
   background-color: #eef3f8;
   border: 0;
 }
@@ -29,7 +29,7 @@ input.searche::placeholder {
 }
 
 nav form{
-  width: 500px;
+  /* width: 500px; */
 }
 
 .body {
@@ -162,4 +162,12 @@ button.ref:hover {
   background-color: white; 
   border-radius: 10px;
   border: 2px solid #4185a5;
+}
+
+.about{
+  position: sticky; /* tek başına olmaz top vermek lazım */
+  overflow: visible;
+  top: 4rem; /* margin-top: üst elemente göre. top sayfa topuna göre. */
+  margin-top: 10px;
+  
 }
