@@ -148,3 +148,18 @@ button.ref:hover {
   font-size: 14px;
   margin-left: 8px;
 }
+
+/* gerek kalmadı silinebilir bootstrap ile hallettik. btn btn-light
+.postbtn{ 
+  border:none;
+  border-radius: 5px;
+  background-color: transparent;
+} */
+
+.fllwbtn {
+  text-decoration: none;
+  transition-duration: 0.4s;
+  background-color: white; 
+  border-radius: 10px;
+  border: 2px solid #4185a5;
+}

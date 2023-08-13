@@ -31,13 +31,28 @@
 18- Posttaki kullanıcı adını üste, meslek title'sını ortaya, post paylaşım süresini aşağı sabitleyiniz. İpucu: align✔
 
 12 Agu Ct-----
-19- inline-css şeklinde yazılan CSS'leri düzenli hale getiriniz.
+19- inline-css şeklinde yazılan CSS'leri düzenli hale getiriniz.(EN SON TOPARLARIZ)
+20- Beğenme, kalp ve alkışa margin veriniz.✔
+21- Butonlara bootstrap düzenlemesi yapınız.✔
 
+13 Agu Pz-----
+22- Sağ panelde logoların yazıları yanlarında olması lazım. Div yerine ne kullanmak gerekiyor?✔ //span 
 
-20- Beğenme, kalp ve alkışa margin veriniz.
-21- Butonlara bootstrap düzenlemesi yapınız.
-22- Sağ panelde logoların yazıları yanlarında olması lazım. Div yerine ne kullanmak gerekiyor?
 23- Bugünün en çok izlenen eğitimleri bölümünün genişliğini üstteki gibi ayarlayınız.
+
 24- Sağ panelde en alttaki bölüme sticky pozisyon verin ve overflowunu görünür yapın. Yukarıdan 4rem mesafe verin.
 25- Bu bölümdeki linkler yan yana olmalı.
 26- Mesajlaşmanın genişliği 300px olmalı, arkaplanı beyaz olmalı.
+
+
+
+
+
+bilgiler=====================================
+
+<div class="ml-n2"          //sola uzatmak
+     style="width: 19rem;"> //sağa uzatmak
+
+
+div alt satıra geçer
+span yandan devam eder
