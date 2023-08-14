@@ -28,7 +28,7 @@
       <!-- search -->
       <!-- 3- Arama alanına sağdan boşluk bırakınız ve placeholder'ini düzeltiniz. -->
       <form class="form-inline">
-        <input class="form-control searche" type="search" placeholder="Arama Yap" aria-label="Search" />
+        <input class="form-control searche pl-2" type="search" placeholder="Arama Yap" aria-label="Search" />
       </form>
 
       <div class="collapse navbar-collapse">
@@ -216,14 +216,23 @@
       <div class="col-6 ">
         <div class="card">
           <div class="card-body">
-            <form class="form-inline ml-0" style="position: relative;">
+            <form class="form-inline ml-0" 
+                  style="position: relative;">
               <!-- <span class="input-group-text" id="basic-addon1">@</span> -->
-              <span class="edit-icon">
-                <img src="/assets/edit-regular.svg" alt="Düzenleme Simgesi">
+              <span class=""><!-- edit-icon -->
+                <img src="/assets/edit-regular.svg" 
+                     alt="Düzenleme Simgesi"
+                     class="position-absolute mt-n2"
+                     style="width: 18px;
+                            margin-top: 0px;
+                            margin-left: 18px;">
               </span>
-              <input class="form-control content w-100" type="text" placeholder="Bir gönderi başlat"
-                aria-label="Bir gönderi başlat" />
+              <input class="form-control content pl-5 w-100" 
+                     type="text" 
+                     placeholder="Bir gönderi başlat"
+                     aria-label="Bir gönderi başlat" />
             </form>
+
             <div class="d-flex justify-content-between mt-3">
               <span><button class="mediatext btn btn-light">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" data-supported-dps="24x24" width="24"
